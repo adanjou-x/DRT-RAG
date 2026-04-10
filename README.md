@@ -4,6 +4,7 @@
 **Author:** Alex d'Anjou  
 **Date:** April 2026  
 **Status:** [Paper One of Three] - Preprint
+
 @misc{danjou2026drtrag,
   title  = {Dynamic Recursive Tree RAG (DRT-RAG): A Self-Evolving Hierarchical Memory Architecture for Agentic AI},
   author = {d'Anjou, Alex},
