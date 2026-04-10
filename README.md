@@ -44,6 +44,7 @@ This series establishes a three-tier memory architecture:
 ## 🛠️ Implementation & Collaboration
 The reference implementation is focusing on a "Gold Standard" test harness for LongMemEval. We are looking for elite engineers to assist with the Librarian navigation loop and Ledger arbitration logic.
 
+[📄 Read the Full Paper (PDF)] Paper/Dynamic Recursive Tree RAG - A Self-Evolving Hierarchical Memory Architecture for Agentic AI.pdf
 ## 📜 Citation
 ```text
 d'Anjou, A. (2026). Dynamic Recursive Tree RAG: A Self-Evolving Hierarchical Memory Architecture for Agentic AI.
