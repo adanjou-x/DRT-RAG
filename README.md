@@ -32,7 +32,7 @@ Current agentic systems struggle with **longitudinal reasoning**. While vector-b
 ---
 
 ## 📊 Performance Benchmarks
-DRT-RAG is a substrate proposal designed for high LongMemEval performance conditional on strong retrieval and routing implementations, with additional emphasis on governability (provenance, invariants, Ledger)..
+DRT-RAG is a substrate proposal designed for high LongMemEval performance conditional on strong retrieval and routing implementations, with additional emphasis on governability (provenance, invariants, Ledger).
 
 | Metric | Focus |
 | :--- | :--- |
@@ -56,6 +56,6 @@ The reference implementation is focusing on a "Gold Standard" test harness for *
 
 ### 📄 [Read the Full Paper: DRT-RAG (PDF)](https://github.com/adanjou-x/DRT-RAG/blob/main/Paper/Dynamic%20Recursive%20Tree%20RAG%20-%20A%20Self-Evolving%20Hierarchical%20Memory%20Architecture%20for%20Agentic%20AI.pdf)
 ## 📜 Citation
-Paper PDF © 2026 Alex d’Anjou. Licensed under CC-BY 4.0 (or All Rights Reserved).
+Paper PDF © 2026 Alex d’Anjou. Licensed under CC-BY 4.0.
 ```text
 d'Anjou, A. (2026). Dynamic Recursive Tree RAG: A Self-Evolving Hierarchical Memory Architecture for Agentic AI.
