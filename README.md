@@ -15,8 +15,11 @@ Current agentic systems struggle with **longitudinal reasoning**. While vector-b
 
 ### Key Innovations:
 **Multi-Channel Node Schema:** Separates facts from narrative to resist information degradation.
+
 **Agentic Librarian:** An LLM-driven controller that navigates the tree top-down with explicit intent rather than passive vector similarity.
+
 **Current State Ledger:** Resolves temporal conflicts and "time-resolution errors" via a three-date validation protocol.
+
 **Recursive Context Pruning:** Automatically abstracts history into higher-level layers to keep the global memory map within a configured context budget.
 
 ---
